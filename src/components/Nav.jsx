@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 const Nav = () => {
     return (
         <>
-            <div classNameName="d-flex  flex-row align-items-center p-3 
+            <div className="d-flex  flex-row align-items-center p-3 
     px-4 mb-3 bg-white border-bottom border-primary">
                 <h5 className="my-0 me-auto font-weight-normal">Company name</h5>
                 <nav className="my-2  mr-3">
